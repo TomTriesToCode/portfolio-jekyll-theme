@@ -1,6 +1,7 @@
+---
 layout: post
 title: "Using GitHub pages"
-
+---
 # Self-study Codio activity: LASSO regression
 ---
 
